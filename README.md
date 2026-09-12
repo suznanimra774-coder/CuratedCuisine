@@ -1,6 +1,6 @@
-# CuratedCuisine — Frontend-Only Food Ordering Website
+# CuratedCuisine — Online Food Delivery Web Application
 
-CuratedCuisine is a responsive food discovery and ordering frontend built entirely with **HTML5, CSS3 and vanilla JavaScript**.
+CuratedCuisine is a responsive food discovery and ordering frontend built entirely with HTML5, CSS3 and vanilla JavaScript.
 
 ## Features
 - Responsive home page and restaurant discovery
@@ -12,7 +12,6 @@ CuratedCuisine is a responsive food discovery and ordering frontend built entire
 - Frontend login/register demo
 - Light/dark mode
 - Responsive mobile navigation
-- No Java, JSP, Servlets, Spring Boot, MySQL, Maven or backend required
 
 ## Tech Stack
 - HTML5
@@ -21,14 +20,11 @@ CuratedCuisine is a responsive food discovery and ordering frontend built entire
 - Browser LocalStorage
 - External food imagery from Unsplash
 
-## Run
-Open `index.html` directly in a browser, or use VS Code + Live Server.
-
-## Important
-This is intentionally a **frontend-only project**. Login, cart, favorites and orders are simulated with LocalStorage and are not secure server-side authentication/payment systems.
+ ## Important
+This is intentionally a frontend-only project. Login, cart, favorites and orders are simulated with LocalStorage and are not secure server-side authentication/payment systems.
 
 ## Project Structure
-```text
+text
 CuratedCuisine/
 ├── index.html
 ├── restaurants.html
@@ -43,4 +39,3 @@ CuratedCuisine/
 ├── js/
 │   └── app.js
 └── README.md
-```
